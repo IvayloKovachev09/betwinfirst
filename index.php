@@ -1,5 +1,4 @@
 <?php
-//
 
 $contactFormSuccessMessage = false;
 
@@ -23,7 +22,7 @@ if (isset($_POST['hform'])) {
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Goal a Sports Category Flat Bootstrap Responsive Website Template | Home :: w3layouts</title>
+<title>Bet and Win Fast</title>
 <!-- custom-theme -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -61,7 +60,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-					<h1><a class="navbar-brand" href="index.html">G<i class="fa fa-futbol-o" aria-hidden="true"></i>al</a></h1>
+					<h1><a class="navbar-brand" href="index.html">BET<i class="fa fa-futbol-o" aria-hidden="true"></i>WIN<i class="fa fa-futbol-o" aria-hidden="true"></i>FAST</a></h1>
 					
 				</div>
 				<!-- Collect the nav links, forms, and other content for toggling -->
