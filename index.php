@@ -67,13 +67,13 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
 					<nav class="menu--iris">
 						<ul class="nav navbar-nav menu__list">
-							<li class="menu__item menu__item--current"><a href="index.html" class="menu__link scroll">Home</a></li>
-							<li class="menu__item"><a href="#about" class="menu__link scroll">about</a></li>
-							<li class="menu__item"><a href="#team" class="menu__link scroll">Team</a></li>
-								<li class="menu__item"><a href="#gallery" class="menu__link scroll">Gallery</a></li>
-									<li class="menu__item"><a href="#testimonials" class="menu__link scroll">Testimonials</a></li>
+							<li class="menu__item menu__item--current"><a href="index.html" class="menu__link scroll">Начало</a></li>
+							<li class="menu__item"><a href="#about" class="menu__link scroll">Букмейкъри</a></li>
+							<li class="menu__item"><a href="#team" class="menu__link scroll">Мачовете днес</a></li>
+								<li class="menu__item"><a href="#gallery" class="menu__link scroll">Мачове на живо</a></li>
+									<!----<li class="menu__item"><a href="#testimonials" class="menu__link scroll">Testimonials</a></li>
 							
-							<li class="menu__item"><a href="#contact" class="menu__link scroll">Contact Us</a></li>
+							<li class="menu__item"><a href="#contact" class="menu__link scroll">Contact Us</a></li>---->
 						</ul>
 						
 					</nav>
@@ -90,8 +90,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 
 							<div class="container">
 								<div class="agileits-banner-info">
-									<h3>Soccer Technical Game</h3>
-									 <p>We love the game</p>
+									<h3>Най-високите коефициенти</h3>
+									 <p>Най-добрите залози</p>
 									
 								</div>	
 							</div>
@@ -101,8 +101,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<div class="w3layouts-banner-top w3layouts-banner-top1">
 						<div class="container">
 								<div class="agileits-banner-info">
-									<h3>select  Perfect base </h3>
-									 <p>we enjoy the game </p>
+									<h3>Най-добрите букмейкъри</h3>
+									 <p>Най точните прогнози</p>
 									
 								</div>	
 							</div>
@@ -112,8 +112,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<div class="w3layouts-banner-top w3layouts-banner-top2">
 							<div class="container">
 								<div class="agileits-banner-info">
-									<h3>soccer Mindful game</h3>
-									 <p>we cheer the game</p>
+									<h3>Мачове на живо</h3>
+									 <p>Насладете се на играта</p>
 									
 								</div>	
 								
@@ -124,7 +124,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			</ul>
 		</div>
 		<!-- banner-bottom -->
-	<div class="banner-bottom">
+	<!---<div class="banner-bottom">
 		<div class="container">
 			<div class="banner_bottom_agile_grids">
 				<div class="wthree_banner_bottom_right_grids">
@@ -132,8 +132,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<div class="view view-tenth">
 							<div class="agile_text_box">
 								<i class="fa fa-eye" aria-hidden="true"></i>
-								<h3> Lorem ipsum</h3>
-								<p>Lorem ipsum dolor sit amet, consectetur adip.</p>
+								<h3> bet365 </h3>
+								<!---<p>Lorem ipsum dolor sit amet, consectetur adip.</p>
 							</div>
 							<div class="mask">
 								<img src="images/a1.jpg" class="img-responsive" alt="" />
@@ -144,8 +144,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<div class="view view-tenth">
 							<div class="agile_text_box">
 								<i class="fa fa-building-o" aria-hidden="true"></i>
-								<h3> Dorem footb</h3>
-								<p>Lorem ipsum dolor sit amet, consectetur adip.</p>
+								<h3> Efbet </h3>
+								<!---<p>Lorem ipsum dolor sit amet, consectetur adip.</p>
 							</div>
 							<div class="mask">
 								<img src="images/a2.jpg" class="img-responsive" alt="" />
@@ -157,8 +157,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<div class="view view-tenth">
 							<div class="agile_text_box">
 								<i class="fa fa-eraser" aria-hidden="true"></i>
-								<h3>Forem check </h3>
-								<p>Lorem ipsum dolor sit amet, consectetur adip.</p>
+								<h3> Betfair </h3>
+								<!---<p>Lorem ipsum dolor sit amet, consectetur adip.</p>
 							</div>
 							<div class="mask">
 								<img src="images/a3.jpg" class="img-responsive" alt="" />
@@ -169,8 +169,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<div class="view view-tenth">
 							<div class="agile_text_box">
 								<i class="fa fa-pencil-square-o" aria-hidden="true"></i>
-								<h3>Jipsu game</h3>
-								<p>Lorem ipsum dolor sit amet, consectetur adip.</p>
+								<h3>Bet-at-home</h3>
+								<!---<p>Lorem ipsum dolor sit amet, consectetur adip.</p>
 							</div>
 							<div class="mask">
 								<img src="images/a4.jpg" class="img-responsive" alt="" />
@@ -182,7 +182,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="clearfix"> </div>
 		</div>
 	</div>
-</div>
+</div>--->
 <!-- banner-bottom -->
 
       </div>

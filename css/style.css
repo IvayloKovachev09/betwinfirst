@@ -241,7 +241,7 @@ ul.agile_forms {
 .agileits-banner-info p:before {
     position: absolute;
     content: '';
-    left: 267px;
+    left: 227px;
     height: 8px;
     bottom: 12px;
     width: 11%;
@@ -250,7 +250,7 @@ ul.agile_forms {
 .agileits-banner-info p:after {
 position: absolute;
     content: '';
-    right: 282px;
+    right: 232px;
     height: 8px;
     bottom: 12px;
     width: 11%;
@@ -268,7 +268,7 @@ position: absolute;
 
 .agileits-banner-info p {
     color: #e2dfdf;
-    font-size: 1.1em;
+    font-size: 1.3em;
     line-height: 1.9em;
     letter-spacing: 9px;
     font-weight: 600;
