@@ -1755,7 +1755,7 @@ div#bs-example-navbar-collapse-1 {
    right:13%;
 	}
 }
-@media(max-width:480px){
+@media(max-width:480px){   
 .agileits-banner-info h3 {
     font-size: 2em;
     letter-spacing: 1px;

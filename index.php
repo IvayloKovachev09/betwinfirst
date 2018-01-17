@@ -67,7 +67,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
 					<nav class="menu--iris">
 						<ul class="nav navbar-nav menu__list">
-							<li class="menu__item menu__item--current"><a href="index.html" class="menu__link scroll">Hom</a></li>
+							<li class="menu__item menu__item--current"><a href="index.html" class="menu__link scroll">Начало</a></li>
 							<li class="menu__item"><a href="#about" class="menu__link scroll">Букмейкъри</a></li>
 							<li class="menu__item"><a href="#team" class="menu__link scroll">Мачовете днес</a></li>
 								<li class="menu__item"><a href="#gallery" class="menu__link scroll">Мачове на живо</a></li>
@@ -192,25 +192,25 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <div class="w3-agileits-about" id="about">
 		<div class="container">
 				<div class="w3-agileits-about-top">
-						<h3>WHY US</h3>
-						<p>Nulla egestas sapien at lobortis mattis. Pellentesque nec quam ligula. Duis hendrerit libero vitae odio tincidunt venenatis. </p>
+						<h3>Букмейкъри</h3>
+						<p>Препоръчваме букмейкърите с български лиценз</p>
 					<div class="clearfix"></div>
 				</div>
 				<div class="col-md-4 col-sm-4 w3-agileits-about-grid">
 					<i class="fa fa-font-awesome" aria-hidden="true"></i>
-					<h4>Standard Chunk</h4>
-					<p>Nulla egestas sapien at lobortis mattis. Pellentesque nec quam ligula. Duis hendrerit libero vitae odio tincidunt venenatis. </p>
+					<h4></h4>
+					<p>bet365</p>
 				</div>
 				<div class="col-md-4 col-sm-4 w3-agileits-about-grid">
 			
 					<i class="fa fa-globe" aria-hidden="true"></i>
-					<h4>Nullam Ultrices</h4>
-					<p>Nulla egestas sapien at lobortis mattis. Pellentesque nec quam ligula. Duis hendrerit libero vitae odio tincidunt venenatis. </p>
+					<h4></h4>
+					<p>Betfair</p>
 				</div>
 				<div class="col-md-4 col-sm-4 w3-agileits-about-grid">
 					<i class="fa fa-trophy" aria-hidden="true"></i>
-					<h4>Donec vitae</h4>
-					<p>Nulla egestas sapien at lobortis mattis. Pellentesque nec quam ligula. Duis hendrerit libero vitae odio tincidunt venenatis.</p>
+					<h4></h4>
+					<p>Efbet</p>
 				</div>
 				
 				
