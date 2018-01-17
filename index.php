@@ -67,7 +67,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">
 					<nav class="menu--iris">
 						<ul class="nav navbar-nav menu__list">
-							<li class="menu__item menu__item--current"><a href="index.html" class="menu__link scroll">Начало</a></li>
+							<li class="menu__item menu__item--current"><a href="index.html" class="menu__link scroll">Home</a></li>
 							<li class="menu__item"><a href="#about" class="menu__link scroll">Букмейкъри</a></li>
 							<li class="menu__item"><a href="#team" class="menu__link scroll">Мачовете днес</a></li>
 								<li class="menu__item"><a href="#gallery" class="menu__link scroll">Мачове на живо</a></li>
