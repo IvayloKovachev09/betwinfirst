@@ -199,18 +199,18 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				<div class="col-md-4 col-sm-4 w3-agileits-about-grid">
 					<i class="fa fa-font-awesome" aria-hidden="true"></i>
 					<h4></h4>
-					<p>bet365</p>
+                    <p><a href="#">bet365</a></p>
 				</div>
 				<div class="col-md-4 col-sm-4 w3-agileits-about-grid">
 			
 					<i class="fa fa-globe" aria-hidden="true"></i>
 					<h4></h4>
-					<p>Betfair</p>
+                    <p><a href="#">Betfair</a></p>
 				</div>
 				<div class="col-md-4 col-sm-4 w3-agileits-about-grid">
 					<i class="fa fa-trophy" aria-hidden="true"></i>
 					<h4></h4>
-					<p>Efbet</p>
+					<p><a href="#">Efbet</a></p>
 				</div>
 				
 				
