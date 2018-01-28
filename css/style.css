@@ -543,7 +543,7 @@ position: absolute;
 .w3-agileits-about p{
 	text-align:center;
 	color: #777;
-	font-size:15px;
+	font-size:21px;
 	line-height:30px;
 }
 .w3-agileits-about-grid {
@@ -592,6 +592,13 @@ position: absolute;
 }
 .w3l_stats_bottom_grid_left img{
 	margin:0 auto;
+}
+.img-responsive{
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: inline;
 }
 .stats{
 	 background:url(../images/s3.jpg) no-repeat 0 0px;

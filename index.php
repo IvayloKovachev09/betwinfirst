@@ -14,7 +14,8 @@ if (isset($_POST['hform'])) {
 	$msg .= "<br>";
 	$msg .= "Съобщение: {$message}";
     $headers = "Content-Type: text/html; charset=UTF-8";
-	if (mail('ikiteam@yahoo.com', 'Съобщение от контактанта форма на сайта', $msg, $headers)) {
+	if (mail('ikiteam@yahoo.com', 'Съобщение от контактанта форма на сайта', $msg, $headers)) 
+	{
 		$contactFormSuccessMessage = 'Съобщението е изпратено успешно.';
 	}
 }
@@ -197,18 +198,17 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					<div class="clearfix"></div>
 				</div>
 				<div class="col-md-4 col-sm-4 w3-agileits-about-grid">
-					<i class="fa fa-font-awesome" aria-hidden="true"></i>
+					<a href="#"><img src="images/bet365.png" alt=" " class="img-responsive" /></a>
 					<h4></h4>
                     <p><a href="#">bet365</a></p>
 				</div>
 				<div class="col-md-4 col-sm-4 w3-agileits-about-grid">
-			
-					<i class="fa fa-globe" aria-hidden="true"></i>
+					<a href="#"><img src="images/betfair.jpg" alt=" " class="img-responsive" /></a>
 					<h4></h4>
                     <p><a href="#">Betfair</a></p>
 				</div>
 				<div class="col-md-4 col-sm-4 w3-agileits-about-grid">
-					<i class="fa fa-trophy" aria-hidden="true"></i>
+					<a href="#"><img src="images/efbet.jpg" alt=" " class="img-responsive" /></a>
 					<h4></h4>
 					<p><a href="#">Efbet</a></p>
 				</div>
@@ -558,9 +558,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <!-- //contact -->
 
 <!-- map -->
-<div class="map">
+<!-- <div class="map">
 	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d158858.47339870626!2d-0.2417004386729234!3d51.52855824202755!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47d8a00baf21de75%3A0x52963a5addd52a99!2sLondon%2C+UK!5e0!3m2!1sen!2sin!4v1497263047247"></iframe>
-</div>
+</div> -->
 <!-- map -->
 
 <!-- /contact bottom -->
@@ -694,7 +694,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		});
 	});
 </script>
-<!-- start-smoth-scrolling -->
+<!-- start-smoth-scrolling  -->
 <!-- for bootstrap working -->
 	<script src="js/bootstrap.js"></script>
 <!-- //for bootstrap working -->
