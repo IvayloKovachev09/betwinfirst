@@ -113,7 +113,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<div class="w3layouts-banner-top w3layouts-banner-top2">
 							<div class="container">
 								<div class="agileits-banner-info">
-									<h3>Мачове на живо</h3>
+									<h3>Залози на живо</h3>
 									 <p>Насладете се на играта</p>
 									
 								</div>	
@@ -193,22 +193,25 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <div class="w3-agileits-about" id="about">
 		<div class="container">
 				<div class="w3-agileits-about-top">
+						<img src="images/18+.png ">
+						<p id="under18">Сайтовете за залагания са разрешени за лица навършили 18 години или повече</p>
+						<br>
 						<h3>Букмейкъри</h3>
 						<p>Препоръчваме букмейкърите с български лиценз</p>
 					<div class="clearfix"></div>
 				</div>
 				<div class="col-md-4 col-sm-4 w3-agileits-about-grid">
-					<a href="#"><img src="images/bet365.png" alt=" " class="img-responsive" /></a>
+					<a href="#"><img src="images/bet365.png" alt="bet365 image" class="img-responsive" /></a>
 					<h4></h4>
                     <p><a href="#">bet365</a></p>
 				</div>
 				<div class="col-md-4 col-sm-4 w3-agileits-about-grid">
-					<a href="#"><img src="images/betfair.jpg" alt=" " class="img-responsive" /></a>
+					<a href="#"><img src="images/betfair.jpg" alt="betfair image" class="img-responsive" /></a>
 					<h4></h4>
                     <p><a href="#">Betfair</a></p>
 				</div>
 				<div class="col-md-4 col-sm-4 w3-agileits-about-grid">
-					<a href="#"><img src="images/efbet.jpg" alt=" " class="img-responsive" /></a>
+					<a href="#"><img src="images/efbet.jpg" alt="efbet image" class="img-responsive" /></a>
 					<h4></h4>
 					<p><a href="#">Efbet</a></p>
 				</div>

@@ -6,7 +6,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 --*/
 html, body{
     font-size: 100%;
-	background:#ffffff;
+	background-image: url("images/bg2.jpg");
+    background-color: #cccccc;
 	margin: 0;
 }
 p,ul li,ol li{
@@ -369,7 +370,7 @@ position: absolute;
 		 margin-bottom:40px;
 }
 .w3-agileits-about-top h3 {
-    color: #000;
+    color: #1860a7;
 }
 .banner-bottom {
     position: absolute;
@@ -524,6 +525,13 @@ position: absolute;
     font-size: 3em;
     margin-bottom: 0.5em;
     color: #468407;
+}
+#under18{
+    color: red;
+}
+.w3-agileits-about-top img{
+    margin: auto;
+    display: inherit;
 }
 .w3-agileits-about-top p {
     text-align: center;
