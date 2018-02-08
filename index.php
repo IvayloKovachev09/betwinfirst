@@ -254,12 +254,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<div class="team" id="team">
 		<div class="container">
 			<div class="w3-team-head">
-				<h3>Our Team</h3>
+				<h3>Мачовете днес</h3>
 				</div>
 			<div class="agile_team_grids">
 				<div class="col-md-3 agile_team_grid team-left-w3l-agile">
 					<div class="agile_team_grid_main">
-						<img src="images/t11.jpg" alt=" " class="img-responsive" />
+						<!--<img src="images/t11.jpg" alt=" " class="img-responsive" />-->
 						<div class="p-mask">
 							<ul class="social-icons">
 							 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -271,13 +271,13 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						</div>
 					</div>
 					<div class="agile_team_grid1">
-						<h3>JANE DOE</h3>
-						<p>Nam id urna ipsum</p>
+						<h3>Очаквайте скоро</h3>
+						<!--<p>Nam id urna ipsum</p>-->
 					</div>
 				</div>
 				<div class="col-md-3 agile_team_grid team-left-w3l-agile">
 					<div class="agile_team_grid_main">
-					<img src="images/t22.jpg" alt=" " class="img-responsive" />
+					<!--<img src="images/t22.jpg" alt=" " class="img-responsive" />-->
 						<div class="p-mask">
 							<ul class="social-icons">
 							 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -289,13 +289,13 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						</div>
 					</div>
 					<div class="agile_team_grid1">
-						<h3>ADALINE</h3>
-						<p>Nam id urna ipsum</p>
+						<h3>Очаквайте скоро</h3>
+						<!--<p>Nam id urna ipsum</p>-->
 					</div>
 				</div>
 				<div class="col-md-3 agile_team_grid team-left-w3l-agile">
 					<div class="agile_team_grid_main">
-					<img src="images/t33.jpg" alt=" " class="img-responsive" />
+					<!--<img src="images/t33.jpg" alt=" " class="img-responsive" />-->
 						<div class="p-mask">
 							<ul class="social-icons">
 								 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -307,13 +307,13 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						</div>
 					</div>
 					<div class="agile_team_grid1">
-						<h3>Laura Crisp</h3>
-						<p>Nam id urna ipsum</p>
+						<h3>Очаквайте скоро</h3>
+						<!--<p>Nam id urna ipsum</p>-->
 					</div>
 				</div>
 				<div class="col-md-3 agile_team_grid team-left-w3l-agile">
 					<div class="agile_team_grid_main">
-						<img src="images/t44.jpg" alt=" " class="img-responsive" />
+						<!--<img src="images/t44.jpg" alt=" " class="img-responsive" />-->
 						<div class="p-mask">
 							<ul class="social-icons">
 								 <li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -325,8 +325,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						</div>
 					</div>
 					<div class="agile_team_grid1">
-						<h3>Rosy Paul</h3>
-						<p>Nam id urna ipsum</p>
+						<h3>Очаквайте скоро</h3>
+						<!--<p>Nam id urna ipsum</p>-->
 					</div>
 				</div>
 				<div class="clearfix"> </div>
@@ -339,10 +339,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<div class="works" id="gallery">
 		<div class="container">
 			<div class="services-heading">
-				<h3>Our Achievements</h3>
+				<h3>Мачове на живо</h3>
 				<div class="border border2"> </div>
 			</div>
-			<div class="gallery-grids">
+            <div id="mach-online" >
+                <p class="coming-soon">Очаквайте скоро
+                </p>
+            </div>
+			<!--<div class="gallery-grids">
 				<div class="col-md-6 gallery-grids-left">
 					<div class="gallery-grid">
 						<a class="example-image-link" href="images/w1.jpg" data-lightbox="example-set" data-title="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus vitae cursus ligula">
@@ -407,7 +411,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<img src="images/w9.jpg" alt="" />
 							</a>
 						</div>
-					</div>
+					</div>-->
 					<div class="clearfix"> </div>
 				</div>
 				<div class="clearfix"> </div>
@@ -421,7 +425,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <div class="test" id="testimonials">
 	<div class="container">
 	<div class="col-md-3 test-left-agileinfo">
-	<h3 class="tittle-agileits-w3layouts">Testimonials</h3>
+	<h3 class="tittle-agileits-w3layouts">Букмейкъри</h3>
 	</div>
 		<div class="col-md-9 test-gr">
 					<div class=" test-gri1">
@@ -429,13 +433,17 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<div class="agile">
 							   	<div class="test-grid">
 							   		<div class="col-md-8 test-grid1">
-										<p class="para-w3-agile">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis.
-										Lorem ipsum dolor .</p>
-										<h4>Steve Warner</h4>
-										<span>Lorem Ipsum</span>
+										<p class="para-w3-agile">Bet365 Group Ltd е хазартна компания със седалище във Великобритания. Bet365 е една от водещите световни онлайн хазартни групи с над 19 милиона клиенти в почти двеста страни. Компанията има над 3 500 служители и е най-големият частен работодател в град Стоук он Трент, където се намира централата и.                                   
+<br/>Bet365 е онлайн хазартна компания, предлагаща спортни залагания, покер, казино, игри и бинго, финансови залози, както и видеоизлъчване на спортни събития в реално време.
+
+Притежава лиценз за извършване на хазартна дейност в редица страни като Великобритания, Малта, Гибралтар, Дания, Испания, Италия, Австралия и България.
+
+Освен централата на компанията в Стоук он Трент, Bet365 има офиси в Гибралтар и Австралия.</p>
+										<h4>Bet365</h4>
+										<span>История</span>
 									</div>	
 									<div class="col-md-4 test-grid2">
-										<img src="images/t1.jpg" alt="" class="img-r">
+										<img src="images/bet365.png" alt="" class="img-r">
 									</div>
 								</div>	
 								<div class="clearfix"></div>
@@ -443,13 +451,24 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<div class="agile">
 							   	<div class="test-grid">
 							   		<div class="col-md-8 test-grid1">
-										<p class="para-w3-agile">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis.
-										Lorem ipsum dolor.</p>
-										<h4>Andery</h4>
-										<span>Lorem Ipsum</span>
+										<p class="para-w3-agile">Betfair e създаден от британските предприемачи Андрю Блек и Едуард Врай през 2000 г. като алтернатива на традиционното залагане. Според идеята на основателите, клиентите могат да залагат един срещу друг, без да имат нуждата от букмейкър. Това превръща Befair е първата в света спортна борса за залози.
+
+<br/>През годините компанията провежда иновативна рекламна политика, но най-забележителна и провокативна остава първата им масова маркетинг кампания - парад с ковчези в Лондон, протекъл под наслов „Смъртта на букмейкъра“.
+
+<br/>През 2002 г. Betfair става спонсор на Фулъм. Компанията купува офиси в Хамърсмит, Лондон, които се превръщат в централа на компанията.
+
+<br/>Betfair инвестира в три нови начинания – онлайн покер, казино и платформа за мобилни устройства през периода 2004-2006 г.
+
+<br/>„Софтбанк“ изкупува 23% от дяловете на Betfair през април 2006 г, оценявайки компанията на 1.5 милиарда британски лири. През 2010 г. Betfair излиза на стоковия пазар с цена на акция 13 британски лири.
+
+<br/>Компанията остава вярна на основната си концепция за спортна борса, но през 2012 г. започва да предлага и традиционно залагане с фиксирани коефициенти.
+
+<br/>През септември 2015 г. е оповестено, че Betfair Group plc ще се присъедини към Paddy Power. Сливането на двете компании е факт на 2 февруари 2016 г. Новото дружество се нарича Paddy Power Betfair и е базирано в Дъблин, Ирландия.</p>
+										<h4>Betfair</h4>
+										<span>История</span>
 									</div>	
 									<div class="col-md-4 test-grid2">
-										<img src="images/t6.jpg" alt="" class="img-r">
+										<img src="images/betfair.jpg" alt="" class="img-r">
 									</div>
 								</div>	
 								<div class="clearfix"></div>
@@ -457,18 +476,19 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							<div class="agile">
 							   	<div class="test-grid">
 							   		<div class="col-md-8 test-grid1">
-										<p class="para-w3-agile">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis.
-										Lorem ipsum dolor .</p>
-										<h4>williams</h4>
-										<span>Lorem Ipsum</span>
+										<p class="para-w3-agile">Ефбет е разпознаваем български бранд, който е комплекс от верига модерни казина, първокласни спортни барове и първият за България, онлайн сайт за спортни залози. Марката е съсредоточена в хазартния и развлекателния бизнес, а в основата на нейната политика стои клиентът – неговите желания и потребности.
+
+<br/>Фундаментите, над които се гради цялата компания са фирмите „Галиция“ ООД, занимаваща се с предприемачество и строителство на жилищни и административни сгради и „Еврофутбол“ ООД – първият в България лицензиран наземен оператор. Стартът е даден през 1990 година, в центъра на столицата, с откриването на казино „Колумбия“ – обект с не голям капацитет, но известен по онова време, с перфектните си условия, качественото обслужване и разнообразието от развлечения. <br/>Съвкупността от тези предпоставки превръщат казино „Колумбия“ в едно от най-посещаваните места, събуждат интереса на цяла София и създават трайна връзка с клиентите.</p>
+										<h4>Efbet</h4>
+										<span>История</span>
 									</div>	
 									<div class="col-md-4 test-grid2">
-										<img src="images/t3.jpg" alt="" class="img-r">
+										<img src="images/efbet.jpg" alt="" class="img-r">
 									</div>
 								</div>	
 								<div class="clearfix"></div>
 							</div>
-							<div class="agile">
+							<!--<div class="agile">
 							   	<div class="test-grid">
 							   		<div class="col-md-8 test-grid1">
 										<p class="para-w3-agile">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis.
@@ -481,7 +501,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 									</div>
 								</div>	
 								<div class="clearfix"></div>
-							</div>	
+							</div>-->	
 					</div>
 				</div>	
 		</div>
