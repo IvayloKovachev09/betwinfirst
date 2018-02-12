@@ -211,16 +211,17 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
                     <p><a href="#">Betfair</a></p>
 				</div>
 				<div class="col-md-4 col-sm-4 w3-agileits-about-grid">
-					<a href="#"><img src="images/efbet.jpg" alt="efbet image" class="img-responsive" /></a>
+					<a href="https://www.efbet.com/BG/homepage">                    
+                            <img src="images/efbet.jpg" alt="efbet image" class="img-responsive">                      
+                    </a>
+                        
 					<h4></h4>
 					<p><a href="#">Efbet</a></p>
-				</div>
-				
-				
+				</div>            
 				<div class="clearfix"></div>
 			</div>
 	   </div>
-<!-- //about -->
+<!-- //about -->            
 <!-- stats -->
 	<div class="stats" id="stats">
 	    <div class="container"> 
@@ -483,7 +484,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 										<span>История</span>
 									</div>	
 									<div class="col-md-4 test-grid2">
-										<img src="images/efbet.jpg" alt="" class="img-r">
+										<a href="#">
+                                            <img src="images/efbet.jpg" alt="" class="img-r">
+                                                 </a>
 									</div>
 								</div>	
 								<div class="clearfix"></div>
@@ -688,7 +691,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
         <script type="text/javascript" src="js/moment-timezone-with-data.js"></script>
         <script type="text/javascript" src="js/timer.js"></script>
     <!-- //Custom-JavaScript-File-Links -->
-
+  <!-- EFBET -->
+   <!-- <script type='text/javascript' src="http://wlefbet.adsrv.eacdn.com/S.ashx?btag=a_4106b_275c_&affid=10569&siteid=4106&adid=275&c=" ></script>-->
+  <!-- EFBET -->
 <!-- requried-jsfiles-for owl -->
  <script src="js/owl.carousel.js"></script>
 							        <script>
